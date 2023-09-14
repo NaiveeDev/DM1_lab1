@@ -424,6 +424,6 @@ int main(int argc, char *argv[]) {
     //divisibleBy();
 
     //#16
-    doString();
+    //doString();
 
 }
